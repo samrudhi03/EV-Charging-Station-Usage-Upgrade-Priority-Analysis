@@ -1,0 +1,49 @@
+# ----------------------------------
+# Python
+# ----------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# ----------------------------------
+# OS / System files
+# ----------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------
+# Editor / IDE
+# ----------------------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------------------
+# Data files (raw & intermediate)
+# ----------------------------------
+data/raw/
+data/processed/
+outputs/
+*.csv
+
+# ----------------------------------
+# Database / local configs
+# ----------------------------------
+.pgpass
+pg_service.conf
+pg.local.*
+*.db
+Postgre_db2.session.sql
+
+# ----------------------------------
+# Logs & temp
+# ----------------------------------
+*.log
+tmp/
+temp/
