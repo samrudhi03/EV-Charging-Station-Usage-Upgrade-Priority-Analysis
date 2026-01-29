@@ -12,7 +12,7 @@ The analysis is designed from an operations and infrastructure analytics perspec
 # Dataset
 
 - Source: Kaggle (simulated EV charging station data)
-- Link: https://www.kaggle.com/datasets/
+- Link: [https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/vivekattri/global-ev-charging-stations-dataset)
 (Dataset used: detailed EV charging station usage and performance data)
 
 The dataset contains information on:
